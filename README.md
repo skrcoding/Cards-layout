@@ -1,3 +1,8 @@
+
+#Demonstration
+Hi, 
+this card was created with app components, it demonstrates the power of components to duplicate HTML and thereby adding as many components as we choose. 
+
 # Cards
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.9.
