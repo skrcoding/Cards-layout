@@ -1,5 +1,5 @@
 
-#<b>Demonstration</b><br>
+#<b>Demonstration</b><br><hr>
 Hi, 
 this card was created with app components, it demonstrates the power of components to duplicate HTML and thereby adding as many components as we choose. 
 
